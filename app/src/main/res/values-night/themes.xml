@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. The UI itself is drawn with Compose Material 3. -->
+    <style name="Base.Theme.SubredditBrowser" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.SubredditBrowser" parent="Base.Theme.SubredditBrowser" />
+</resources>
